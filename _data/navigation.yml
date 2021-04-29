@@ -1,0 +1,10 @@
+- title: Accueil
+  url: /
+- title: Archives
+  url: /years/
+- title: Catégories
+  url: /categories/
+- title: Tags
+  url: /tags/
+- title: À propos
+  url: /about/

@@ -1,0 +1,28 @@
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
+title: "Blog"
+author: "Cédric Eyssette"
+avatar: /avatar.jpg
+email: cedric.eyssette@gmail.com
+lang: "fr"
+skin: "daylight"
+
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+
+twitter:
+  username: Cedric_Eyssette
+  card: summary
+logo: avatar.jpg
+social:
+  name: Cédric Eyssette
+  links:
+    - https://twitter.com/Cedric_Eyssette
+    - https://www.facebook.com/cedric.eyssette
+    - https://eyssette.github.io/

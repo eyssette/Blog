@@ -1,0 +1,137 @@
+// Placeholder to allow customizing styles.
+
+@charset "UTF-8";
+
+@font-face {
+  font-family: "et-book";
+  src: url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
+  src: url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: normal
+}
+
+@font-face {
+  font-family: "et-book";
+  src: url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot");
+  src: url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix") format("embedded-opentype"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf") format("truetype"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: italic
+}
+
+@font-face {
+  font-family: "et-book";
+  src: url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot");
+  src: url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix") format("embedded-opentype"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf") format("truetype"), url("https://eyssette.github.io/teaching-theme-for-marp/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf") format("svg");
+  font-weight: bold;
+  font-style: normal
+}
+
+.site-container, .site-nav {background-color: #1b1b1a!important;}
+.site-nav li {background-color: #1b1b1a!important;}
+.site-nav li a {color: lightgrey!important;}
+.site-nav .current-page {text-decoration: underline; text-underline-offset:5px;}
+.site-sidebar-button {color:#00b1c9!important;}
+
+.site-sidebar {background-color: #272724!important; border-radius: 15px 0 0 0;}
+.sidebar-section {border-bottom-color: #3f3f3f;}
+
+.site-sidebar ul {color: lightgrey;}
+.site-sidebar a, .site-sidebar .feed-subscribe a, .site-sidebar .social-icons a {color: #0063ce;}
+.site-sidebar a:hover{color: #0063ce; text-decoration: underline;}
+.site-sidebar .social-icons a  {
+	color:rgba(255,255,255,0.5);
+ }
+ .site-sidebar .social-icons a:hover {color:#fcfcfc;}
+ .sidebar-section:nth-of-type(4) .svg-inline--fa {height:0.8em;}
+
+.site-title {color: lightgrey!important;}
+
+.site-header {
+	background-color: #1b1b1a!important;
+	border-top-color: #1b1b1a!important;
+	border-bottom-color: #1b1b1a!important;}
+.site-main {
+	background-color: rgba(255, 255, 255, 0.979);
+	border-radius:0 15px 0 0;
+}
+@media screen and (max-width: 600px) {
+	.site-main {border-radius:15px 15px 0 0; padding:10px;}
+}
+
+@media screen and (min-width: 1100px) {
+  body {overflow-x: hidden;}
+	.site-main{min-width:700px;}
+	.site-sidebar, .site-main{margin-top:20px;}
+  .wrapper{max-width: none;}
+  .site-main, .home{background-color: #1B1B17!important;}
+  article, .post-list {
+    background-color: rgba(255, 255, 255, 0.979)!important;
+    padding-left: 2rem!important;
+    padding-right: 2rem!important;
+    border-radius: 0px 15px 0 0!important;
+  }
+  .post-list li {margin-top:-40px; padding-top:60px;}
+  .site-footer {background-color:rgba(255, 255, 255, 0.979); padding-top:4rem!important; margin-top:-37px!important; padding-left:40px;}
+  article.h-entry + .site-footer {margin-top:0px!important;}
+  .site-nav{margin-right:28vw!important;}
+}
+
+@media screen and (min-width:1100px) and (max-width:1200px) {
+  .site-sidebar{margin-left:0px!important; margin-right:-50px; }
+  .site-title{margin-left:20px!important;}
+  .site-main{margin-left:40px!important; padding-right:750px; padding-left:0px;}
+}
+
+@media screen and (min-width:1200px) and (max-width:1400px) {
+  .site-sidebar{margin-left:80px!important; margin-right:-130px; }
+  .site-title{margin-left:100px!important;}
+  .site-main{margin-left:120px!important; padding-right:750px; padding-left:0px;}
+}
+
+@media screen and (min-width:1400px) and (max-width:1600px) {
+  .site-sidebar{margin-left:180px!important; margin-right:-230px; }
+  .site-title{margin-left:200px!important;}
+  .site-main{margin-left:220px!important; padding-right:750px; padding-left:0px;}
+}
+
+@media screen and (min-width:1600px) and (max-width:1800px) {
+  .site-sidebar{margin-left:280px!important; margin-right:-330px; }
+  .site-title{margin-left:300px!important;}
+  .site-main{margin-left:320px!important; padding-right:750px; padding-left:0px;}
+}
+
+@media screen and (min-width:1800px) and (max-width:2100px) {
+  .site-sidebar{margin-left:360px!important; margin-right:-410px; }
+  .site-title{margin-left:380px!important;}
+  .site-main{margin-left:400px!important; padding-right:750px; padding-left:0px;}
+}
+
+@media screen and (min-width:2100px) and (max-width:2300px) {
+  .site-sidebar{margin-left:460px!important; margin-right:-510px; }
+  .site-title{margin-left:480px!important;}
+  .site-main{margin-left:500px!important; padding-right:750px; padding-left:0px;}
+}
+
+
+@media screen and (min-width:2300px) {
+  .site-sidebar{margin-left:680px!important; margin-right:-710px; }
+  .site-title{margin-left:680px!important;}
+  .site-main{margin-left:710px!important; padding-right:750px; padding-left:0px}
+}
+
+
+.site-main h2 a {color:#520303;}
+
+
+.toc li a {color:lightgrey!important;}
+.toc-title {border-color:#424242!important;}
+.toc-nav {border-color:#424242; overflow-y: visible;}
+.toc-nav ul li a {border-bottom:none;}
+.toc-nav ul li a:hover {background-color: #3b3b37!important; text-decoration:none; color:#fcfcfc!important;}
+
+
+blockquote {font-family: "et-book"; color:#555!important; padding-right:15px; font-style:normal; font-size:1.1em;}
+blockquote p {margin-bottom:10px; text-align:justify; hyphens:none;}
+blockquote p em {font-style:italic;}
+
+.discussions {margin-top:60px;}
