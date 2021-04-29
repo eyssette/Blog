@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quatre textes pour mieux comprendre la liberté comme non-domination selon Philip Pettit
-categories: Philosophie
+categories: [Philosophie sociale et politique]
 tags: 
 ---
 
