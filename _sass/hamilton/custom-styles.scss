@@ -36,7 +36,7 @@
 .sidebar-section {border-bottom-color: #3f3f3f;}
 
 .site-sidebar ul {color: lightgrey;}
-.site-sidebar a, .site-sidebar .feed-subscribe a, .site-sidebar .social-icons a {color: #0063ce;}
+.site-sidebar a, .site-sidebar .feed-subscribe a, .site-sidebar .social-icons a {color: #003be4;}
 .site-sidebar a:hover{color: #0063ce; text-decoration: underline;}
 .site-sidebar .social-icons a  {
 	color:rgba(255,255,255,0.5);
@@ -120,7 +120,7 @@
 }
 
 .site-main a {color:#002798;}
-.site-footer a {color:#0063b4;}
+.post-footer a, .site-footer a {color:#003be4!important;}
 .site-main h2 a {color:#520303;}
 
 
