@@ -54,10 +54,7 @@
 	background-color: rgba(255, 255, 255, 0.979);
 	border-radius:0 15px 0 0;
 }
-@media screen and (max-width: 600px) {
-	.site-main {border-radius:15px 15px 0 0; padding:10px;}
-  blockquote {font-size:0.9em!important; color:#333!important;}
-}
+
 
 @media screen and (min-width: 1100px) {
   body {overflow-x: hidden;}
@@ -137,3 +134,8 @@ blockquote p {margin-bottom:10px; text-align:justify; hyphens:none;}
 blockquote p em {font-style:italic;}
 
 .discussions {margin-top:60px;}
+
+@media screen and (max-width: 600px) {
+	.site-main {border-radius:15px 15px 0 0; padding:10px;}
+  blockquote {font-size:0.9em!important; color:#333!important;}
+}
