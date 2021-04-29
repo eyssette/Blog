@@ -129,7 +129,7 @@
 .toc-nav ul li a:hover {background-color: #3b3b37!important; text-decoration:none; color:#fcfcfc!important;}
 
 
-blockquote {font-family: "et-book"; color:#555!important; padding-right:15px; font-style:normal; font-size:1.1em;}
+blockquote {font-family: "et-book"; color:#555!important; padding-right:15px;font-style:normal; font-size:1.1em;}
 blockquote p {margin-bottom:10px; text-align:justify; hyphens:none;}
 blockquote p em {font-style:italic;}
 
@@ -137,5 +137,5 @@ blockquote p em {font-style:italic;}
 
 @media screen and (max-width: 600px) {
 	.site-main {border-radius:15px 15px 0 0; padding:10px;}
-  blockquote {font-size:1em!important; color:#333!important;}
+  blockquote {font-size:1em!important; color:#333!important;  padding-left:15px;}
 }
