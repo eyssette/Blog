@@ -7,7 +7,7 @@ excerpt: Philip Pettit défend une conception de la liberté politique comme non
 ---
 
 
-[Philip Pettit](https://www.princeton.edu/~ppettit/) défend une conception de la liberté politique comme non-domination. Voici quatre textes, extraits de son livre _Républicanisme. Une théorie de la liberté et du gouvernement_ (2004) pour mieux comprendre ce que signifie la non-domination.
+[Philip Pettit](https://www.princeton.edu/~ppettit/images/me.jpg) défend une conception de la liberté politique comme non-domination. Voici quatre textes, extraits de son livre _Républicanisme. Une théorie de la liberté et du gouvernement_ (2004) pour mieux comprendre ce que signifie la non-domination.
 
 
 ## Il faut distinguer la non-domination et la non-interférence
@@ -35,6 +35,7 @@ excerpt: Philip Pettit défend une conception de la liberté politique comme non
 
 ## Pour approfondir
 
+- [Page personnelle de Philip Pettit](https://www.princeton.edu/~ppettit/)
 - [Un passage sur la liberté comme non-domination](https://plato.stanford.edu/entries/republicanism/#PolLibNonDom) dans l'article de l'_Encyclopédie Stanford_ sur le Républicanisme
 - [Une présentation de la liberté comme non-domination](https://www.revuepolitique.be/philip-pettit-la-liberte-comme-non-domination/) par Sophie Heine
 - [Une vidéo sur la liberté comme non-domination](https://girlfriendincoma.wordpress.com/2019/04/01/la-liberte-comme-non-domination-le-neo-republicanisme-politikon-16/) sur la chaîne Politikon

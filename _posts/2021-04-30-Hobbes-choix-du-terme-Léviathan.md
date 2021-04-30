@@ -19,7 +19,7 @@ Le choix du terme “Léviathan” pour désigner l'État est très significatif
 
 >Job 41:25 : « Sur terre, il n’a point son pareil, il a été fait intrépide. »
 
-&rArr; Le pouvoir de l’État est absolu et sans pareil : c'est ce qu'on retrouve aussi dans l’image du géant dans le frontispice (_cf._ ci-dessous).
+&rArr; Le pouvoir de l’État est absolu et sans pareil : c'est ce qu'on retrouve aussi dans l’image du géant dans le frontispice (cf. ci-dessous).
  
 
 ## 3/ Le Léviathan est un monstre qui provient de la mer, et l’eau représente le chaos primitif
@@ -47,17 +47,17 @@ Le terme même de Léviathan serait composé à partir de la racine _lavah_, qui
 >
 >Job 41:15 : « Les fanons de sa chair sont soudés ensemble : ils adhèrent à elle, inébranlables. »
 
-&rArr; Léviathan est composé d’individus qui sont joints par un contrat : c'est ce qu'on retrouve dans le frontispice (_cf._ ci-dessous) avec l'image du géant dont le corps est rempli de personnages.
+&rArr; Léviathan est composé d’individus qui sont joints par un contrat : c'est ce qu'on retrouve dans le frontispice (cf. ci-dessous) avec l'image du géant dont le corps est rempli de personnages.
 
  
 ## 6/ Appeler l’État “Léviathan”, c’est lui donner un nom, le nom d’une créature
 
-&rArr; Donner un nom à l’État, c’est en un sens le baptiser, le considérer comme un être qui a une naissance et l’État est justement chez Hobbes considéré du point de vue de sa genèse. Il s’agit d’autre part de considérer l’État comme un individu, comme une personne, ainsi que le montre le frontispice (_cf._ ci-dessous). Enfin, Léviathan est <cite>mortel et exposé, comme toutes les autres créatures terrestres, à la décrépitude</cite> (_Léviathan_ XXVIII). De même l’État doit savoir ce qui le rend mortel afin de pouvoir survivre.
+&rArr; Donner un nom à l’État, c’est en un sens le baptiser, le considérer comme un être qui a une naissance et l’État est justement chez Hobbes considéré du point de vue de sa genèse. Il s’agit d’autre part de considérer l’État comme un individu, comme une personne, ainsi que le montre le frontispice (cf. ci-dessous). Enfin, Léviathan est <cite>mortel et exposé, comme toutes les autres créatures terrestres, à la décrépitude</cite> (_Léviathan_, XXVIII). De même l’État doit savoir ce qui le rend mortel afin de pouvoir survivre.
 
 
 ## Conclusion
 
-En définitive, on a avec ce terme de Léviathan un concentré de la philosophie politique de Hobbes : le pouvoir naît (_cf._ 6.) des individus eux-mêmes par une forme de contrat (_cf._ 5.). Il émerge de l’état de nature, dans lequel le désir de puissance de chacun (_cf._ 4.) conduit à un état de guerre (_cf._ 3.). Pour faire sortir les hommes de l’état de nature, Hobbes estime que le pouvoir de l’État doit être absolu (_cf._ 2.) et qu’il doit faire respecter les lois par la crainte (_cf._ 1.).
+En définitive, on a avec ce terme de Léviathan un concentré de la philosophie politique de Hobbes : le pouvoir naît (cf. 6.) des individus eux-mêmes par une forme de contrat (cf. 5.). Il émerge de l’état de nature, dans lequel le désir de puissance de chacun (cf. 4.) conduit à un état de guerre (cf. 3.). Pour faire sortir les hommes de l’état de nature, Hobbes estime que le pouvoir de l’État doit être absolu (cf. 2.) et qu’il doit faire respecter les lois par la crainte (cf. 1.).
 
 
 [![Frontispice du Léviathan](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)

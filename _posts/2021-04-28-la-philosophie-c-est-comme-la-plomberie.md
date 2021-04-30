@@ -2,7 +2,6 @@
 layout: post
 title: La philosophie, c’est comme la plomberie !
 categories: [Introduction à la philosophie]
-tags : 
 ---
 
 Dans _Utopias, Dolphins and Computers: Problems in Philosophical Plumbing_, Mary Midgley propose une comparaison intéressante entre la plomberie et la philosophie. Voici un extrait sélectionné et une proposition de traduction (non-professionnelle).
