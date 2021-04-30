@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La philosophie, c’est comme la plomberie
+title: La philosophie, c’est comme la plomberie !
 categories: [Introduction à la philosophie]
 tags : 
 ---
