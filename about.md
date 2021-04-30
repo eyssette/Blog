@@ -6,7 +6,7 @@ permalink: /about/
 
 # “PPN” : qu'est-ce que cela veut dire ?
 
-Philosophie, pédagogie, numérique : ce sont les trois thématiques de ce blog.
+Philosophie, Pédagogie, Numérique : ce sont les trois thématiques de ce blog.
 
 # Qui a fait ce blog ?
 
