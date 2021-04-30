@@ -60,4 +60,4 @@ Le terme même de Léviathan serait composé à partir de la racine _lavah_, qui
 En définitive, on a avec ce terme de Léviathan un concentré de la philosophie politique de Hobbes : le pouvoir naît (_cf._ 6.) des individus eux-mêmes par une forme de contrat (_cf._ 5.). Il émerge de l’état de nature, dans lequel le désir de puissance de chacun (_cf._ 4.) conduit à un état de guerre (_cf._ 3.). Pour faire sortir les hommes de l’état de nature, Hobbes estime que le pouvoir de l’État doit être absolu (_cf._ 2.) et qu’il doit faire respecter les lois par la crainte (_cf._ 1.).
 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)
+[![Frontispice du Léviathan](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)
