@@ -4,7 +4,7 @@ title: À propos
 permalink: /about/
 ---
 
-# PPN : qu'est-ce que cela veut dire ?
+# “PPN” : qu'est-ce que cela veut dire ?
 
 Philosophie, pédagogie, numérique : ce sont les trois thématiques de ce blog.
 

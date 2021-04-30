@@ -11,7 +11,7 @@
         {% include header.html %}
       </header>
       
-      <div class="site-body wrapper">
+      <div class="site-body wrapper {% if page.layout %}layout-{{ page.layout | escape }}{% endif %}">
         <aside class="site-sidebar" id="site-sidebar">
           {% if page.toc %}
             {% include sidebar-toc.html %}
