@@ -2,7 +2,7 @@
 layout: post
 title: Quatre textes pour mieux comprendre la liberté comme non-domination selon Philip Pettit
 categories: [Philosophie sociale et politique]
-tags: [Liberté, Domination, Philip Pettit]
+tags: [Liberté, Philip Pettit]
 excerpt: Philip Pettit défend une conception de la liberté politique comme non-domination. Voici quatre textes, extraits de son livre _Républicanisme. Une théorie de la liberté et du gouvernement_ (2004) pour mieux comprendre ce que signifie la non-domination.
 ---
 
