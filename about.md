@@ -4,7 +4,7 @@ title: À propos
 permalink: /about/
 ---
 
-# “PPN” : qu'est-ce que cela veut dire ?
+# <span class="site-name">PPN :</span> Qu'est-ce que cela veut dire ?
 
 Philosophie, Pédagogie, Numérique : ce sont les trois thématiques de ce blog.
 
