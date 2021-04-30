@@ -4,6 +4,7 @@ plugins:
 remote_theme: ngzhio/jekyll-theme-hamilton
 
 title: PPN
+tagline: Cédric Eyssette
 author: Cédric Eyssette
 description: Professeur de philosophie
 avatar: /avatar.jpg
