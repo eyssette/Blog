@@ -11,7 +11,9 @@
 
 <div class="sidebar-section">
   <ul class="contact-list">
-    {% if site.author -%}
+    {% if site.author -%}<li>Un blog de {{ site.author | escape }}</li>{%- endif %}
+    {% if site.description -%}<li>{{ site.description | escape }}</li>{%- endif %}
+    <!-- {% if site.author -%}
       <li>
         <i class="sidebar-icon fas fa-at"></i>
         <span class="contact-info p-name">{{ site.author | escape }}</span>
@@ -28,7 +30,7 @@
         <i class="sidebar-icon fas fa-location-arrow"></i>
         <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>
       </li>
-    {%- endif %}
+    {%- endif %} -->
   </ul>
 </div>
 

@@ -3,12 +3,13 @@ plugins:
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
-title: "Blog"
-author: "Cédric Eyssette"
+title: PPN
+author: Cédric Eyssette
+description: Professeur de philosophie
 avatar: /avatar.jpg
 email: cedric.eyssette@gmail.com
-lang: "fr"
-skin: "daylight"
+lang: fr
+skin: daylight
 
 exclude:
   - scripts/

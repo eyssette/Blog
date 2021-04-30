@@ -1,3 +1,9 @@
+- mail: Email
+  url: ma&#105;l&#116;o&#58;c%6&#53;%64%&#55;2ic&#46;&#101;%79&#37;73%73&#37;&#54;5&#116;%74e&#64;g&#109;ai%6C&#46;%6&#51;om
+  icon: fas fa-envelope
+- title : Linkedin
+  url: https://www.linkedin.com/in/eyssette/
+  icon: fab fa-linkedin
 - title: GitHub
   url: https://eyssette.github.io/
   icon: fab fa-github
