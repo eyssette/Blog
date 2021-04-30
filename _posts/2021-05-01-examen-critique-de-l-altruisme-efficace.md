@@ -20,9 +20,18 @@ L'altruisme efficace est une position en éthique qui soutient l'idée qu'il est
 
 L'article de I. Gabriel examine plusieurs objections à ces trois idées, et parmi ces objections, ce sont principalement celles-ci qui retiennent mon attention : 
 
-1. Vouloir toujours évaluer l'efficacité des actions humanitaires peut être contre-productif : la surévaluation de la démarche rationnelle peut conduire à mettre en doute l'impact réel des actes altruistes individuels, à négliger l'importance des facteurs affectifs, et à véhiculer une conception de l'altruisme qui cherche davantage à se rassurer sur l'importance morale de son action, que sur la mise en œuvre politique et collective de changements systémiques essentiels.
-2. L'évaluation des actions humanitaires en fonction de leur efficacité a tendance à créer des biais en faveur des actions quantifiables, ciblées et menées par des experts, ce qui peut conduire à ne pas prendre en compte des actions moins ou non quantifiables, d'envergure plus importante, ou conduites par des associations locales avec un mode d'organisation davantage participatif.
-3. L'efficacité n'est pas la seule valeur importante : il faut aussi prendre en compte les considérations d'égalité, la priorité des besoins, et les droits humains.
+1. Vouloir toujours évaluer l'efficacité des actions humanitaires peut être contre-productif. La surévaluation de la démarche rationnelle peut conduire :
+	- à mettre en doute l'impact réel des actes altruistes individuels,
+	- à négliger l'importance des facteurs affectifs,
+	- à véhiculer une conception de l'altruisme qui cherche davantage à se rassurer sur l'importance morale de son action, que sur la mise en œuvre politique et collective de changements systémiques essentiels.
+2. L'évaluation des actions humanitaires en fonction de leur efficacité a tendance à créer des biais : 
+	- en faveur des actions quantifiables, ce qui peut conduire à ne pas prendre en compte des actions moins ou non quantifiables ;
+	- en faveur des actions ciblées, ce qui peut conduire à ne pas prendre en compte des actions d'envergure plus importante ;
+	- en faveur des actions menées par des experts, ce qui peut conduire à ne pas prendre en compte des actions conduites par des associations locales avec un mode d'organisation davantage participatif.
+3. L'efficacité n'est pas la seule valeur importante, il faut aussi prendre en compte :
+	- les considérations d'égalité ;
+	- la priorité des besoins ;
+	- les droits humains.
 
 J'ai rassemblé l'ensemble de ces remarques sous la forme d'un schéma (vous pouvez cliquer dessus pour le voir en grand).
 
