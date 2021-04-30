@@ -56,25 +56,19 @@
   </div>
 {%- endif %}
 
-<div class="sidebar-section">
-  <ul class='search-form'>
-        <!-- HTML elements for search -->
-        <li><input type="text" id="search-input" placeholder="Search…"></li>
-        <!-- or without installing anything -->
-        <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-  </ul>
-  <ul id="results-container"></ul>
+{% unless page.layout == 'post'  -%}
+  <ul class='search-form'><li><input type="text" id="search-input" placeholder="Search…"></li></ul><ul id="results-container"></ul>
+
   <script type="text/javascript">
     var sjs=SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
-      json: 'search.json',
+      json: '/search.json',
       searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
       noResultsText: 'No results found',
       limit: 10,
       fuzzy: false,
       exclude: ['Welcome']
     })
-  </script>
-
-</div>
+    </script>
+{%- endunless %}
