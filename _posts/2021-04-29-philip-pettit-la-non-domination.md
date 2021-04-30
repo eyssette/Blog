@@ -6,7 +6,7 @@ tags: [Liberté, domination, Philip Pettit]
 ---
 
 
-Philip Pettit défend une conception de la liberté politique comme non-domination. Voici quatre textes, extraits de son livre _Républicanisme. Une théorie de la liberté et du gouvernement_ (2004) pour mieux comprendre ce que signifie la non-domination.
+[Philip Pettit](https://www.princeton.edu/~ppettit/) défend une conception de la liberté politique comme non-domination. Voici quatre textes, extraits de son livre _Républicanisme. Une théorie de la liberté et du gouvernement_ (2004) pour mieux comprendre ce que signifie la non-domination.
 
 
 ## Il faut distinguer la non-domination et la non-interférence
@@ -31,3 +31,10 @@ Philip Pettit défend une conception de la liberté politique comme non-dominati
 
 ## La non-domination au fondement du statut de personne à titre légal et social
 >« Pour jouir d'une situation de non-domination, il faut que je sois dans une position telle que personne n'a de pouvoir d'interférence arbitraire sur moi, en raison d'un pouvoir dont je dispose. Pour ne pas subir de domination, il faut non seulement ne pas être soumis à des interférences arbitraires, mais il faut encore disposer d'une forme garantie et résiliente de non-interférence. […] [L]e fait de jouir d'une situation de non-domination vis-à-vis d'un autre agent implique la capacité dont vous disposez de faire face à l'autre […] confiant dans la connaissance partagée que vous avez que ce n'est pas parce qu'il y consent que vous êtes, de manière candide, en mesure de poursuivre, hors de toute interférence arbitraire, les objectifs qui sont les vôtres. Vous poursuivez ces choix, sur la base d'un droit qui est publiquement reconnu. Vous n'avez à vivre ni dans la crainte de l'autre, ni soumis à la nécessité de faire preuve à son égard de déference. L'absence de domination dont vous jouissez vis-à-vis des autres, vous ne la devez pas à une faveur qu'ils vous font. Vous n'êtes pas, en d'autres termes, à leur merci. Vous êtes quelqu'un et non pas rien, lorsque vous avez affaire à eux. Vous êtes, autrement dit, une personne à titre légal et social. » (p.98-100)
+
+## Pour approfondir
+
+- [Un passage sur la liberté comme non-domination](https://plato.stanford.edu/entries/republicanism/#PolLibNonDom) dans l'article de l'_Encyclopédie Stanford_ sur le Républicanisme
+- [Une présentation de la liberté comme non-domination](https://www.revuepolitique.be/philip-pettit-la-liberte-comme-non-domination/) par Sophie Heine
+- [Une vidéo sur la liberté comme non-domination](https://girlfriendincoma.wordpress.com/2019/04/01/la-liberte-comme-non-domination-le-neo-republicanisme-politikon-16/) sur la chaîne Politikon
+- [_Philip Pettit. Le républicanisme_](https://www.cairn.info/philip-pettit--9782841865413.htm) : un livre de Jean-Fabien Spitz. Le chapitre 2 porte plus spécifiquement sur la liberté comme non-domination.

@@ -9,7 +9,7 @@ L’argument de la méta-induction pessimiste est un argument contre le réalism
 
 >« Le pessimiste prend les théories que l’histoire des sciences nous présente comme des cas individuels. Il applique à ces cas la méthode de l’induction, effectuant ainsi une sorte de méta-induction : ici l’induction ne concerne pas des phénomènes dans le monde, mais des théories scientifiques. […] Comme un grand nombre de théories que nous a présentées l’histoire des sciences se sont révélées fausses, le pessimiste conclut à la règle générale que les théories scientifiques sont fausses. Sur cette base, il fait la prédiction que les théories dont nous supposons aujourd’hui la vérité se montreront fausses dans l’avenir. »
 >
->Esfeld, Michael. *Philosophie des sciences : une introduction*. 2e édition, Presses polytechniques et universitaires romandes, 2009., p.6
+>Esfeld, Michael. *Philosophie des sciences : une introduction*. 2e édition, Presses polytechniques et universitaires romandes, 2009, p.6
 
 Grâce au blog [_It’s Only A Theory_](https://itisonlyatheory.blogspot.com/2009/10/pessimistic-meta-induction.html), j'ai découvert un texte de Montaigne qui formulait déjà cet argument beaucoup discuté dans la philosophie contemporaine. Je cite le texte dans la traduction en français moderne de Guy Jacquesson (alias Guy de Pernon), qui a fait un travail admirable.
 
@@ -35,3 +35,4 @@ Cet argument est bien sûr très discutable et j'essaierai plus tard d'en propos
 
 - [Passage sur la méta-induction pessimiste](https://plato.stanford.edu/entries/scientific-realism/#PessIndu) dans l'Encyclopédie Stanford
 - [Bibliographie sur la méta-induction pessimiste](https://philpapers.org/s/pessimistic%20meta-induction) sur Philpapers
+- [Analyse critique de cet argument et défense d'une forme de réalisme scientifique](https://philosophiedessciences.blogspot.com/2014/04/les-electrons-existent-ils-2.html) par Quentin Ruyant
