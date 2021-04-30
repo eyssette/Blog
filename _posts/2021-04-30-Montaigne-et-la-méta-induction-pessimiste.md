@@ -3,6 +3,7 @@ layout: post
 title: Montaigne et la méta-induction pessimiste
 categories: Épistémologie
 tags: [Réalisme scientifique, Montaigne]
+excerpt: L’argument de la méta-induction pessimiste est un argument contre le réalisme scientifique très discuté dans la philosophie contemporaine. Montaigne avait déjà proposé une première formulation de cet argument.
 ---
 
 L’argument de la méta-induction pessimiste est un argument contre le réalisme scientifique, très bien expliqué par Michael Esfeld dans ce passage :

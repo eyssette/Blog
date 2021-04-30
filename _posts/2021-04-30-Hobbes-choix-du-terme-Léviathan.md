@@ -5,7 +5,7 @@ categories: [Histoire de la philosophie]
 tags: [Hobbes]
 ---
 
-Le choix du terme de “Léviathan” semble être guidé par les considérations suivantes : 
+Le choix du terme “Léviathan” pour désigner l'État est très significatif. L'examen des sources bibliques permet de mieux comprendre les raisons de ce choix.
 
 ## 1/ Le Léviathan est un monstre qui fait peur
 
