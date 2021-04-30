@@ -24,6 +24,7 @@ Grâce au blog [_It’s Only A Theory_](https://itisonlyatheory.blogspot.com/200
 >>Lucrèce, _De la Nature_, V, vv 1275 sq.
 >
 >Ainsi quand quelque théorie nouvelle se présente à nous, nous avons bien des motifs de nous en défier, et de considérer qu’avant qu’elle ne soit élaborée, c’était la théorie contraire qui était en vogue : comme elle a été renversée par celle-ci, il pourrait en apparaître dans l’avenir une troisième qui viendrait de même abattre la seconde. »
+>
 >Montaigne, _Essais_, livre II, chapitre XII – Apologie de Raymond Sebond (traduction Guy Jacquesson)
 
 Une version plus populaire de ce même argument peut se trouver dans la série _Friends_, lors d’une discussion entre Ross et Phœbe à propos de l’évolution (saison 2, épisode 3) !
