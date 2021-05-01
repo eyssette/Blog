@@ -8,6 +8,8 @@ permalink: /about/
 
 En anglais, l'expression _in a nutshell_ annonce un effort pour résumer de manière claire et concise l'essentiel de son propos.
 
+[![]({{site.url}}/nutshell-t.jpg)]({{site.url}}/nutshell-t.jpg)
+
 C'est exactement ce que j'essaie de faire ici : présenter de manière condensée, et souvent schématique, des idées que je rencontre dans mon enseignement, dans mes lectures ou dans mes projets personnels.
 
 Ce blog se focalisera sur des points précis autour de trois thématiques principales : la philosophie, la pédagogie et le numérique.
