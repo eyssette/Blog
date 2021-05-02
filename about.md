@@ -30,7 +30,7 @@ Vous pouvez également retrouver sur mon [ancien blog](https://eyssette.github.i
 
 Ce blog ne collecte aucune information personnelle, il n'y a aucun traceur de votre présence sur ce site <span class="cross">🍪</span>.
 
-J'utilise [Jekyll](https://jekyllrb.com/), un logiciel libre de création de site statique en [Markdown](https://daringfireball.net/projects/markdown/).
+J'utilise [Jekyll](https://jekyllrb.com/), un logiciel libre de création de site statique en [Markdown](https://daringfireball.net/projects/markdown/), et mon site est hébergé sur [Github](https://github.com/). Cela me permet d'avoir un site sécurisé, qui s'affiche très rapidement, et qui reste facile à maintenir une fois qu'on l'a correctement configuré.
 
 Le thème de ce blog est une adaptation du thème [Hamilton](https://github.com/zivhub/jekyll-theme-hamilton), créé par [Song-Zi Vong](https://github.com/zivhub). Vous pouvez vous aussi l'utiliser, dans sa version originale, ou dans la [version que je propose](https://github.com/eyssette/in-a-nutshell), en le récupérant sur Github.
 
