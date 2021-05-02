@@ -253,10 +253,3 @@ input[type="text"] {background-color:#272724!important; border:1px solid grey; c
 
 ol ol li, ol ul li, ul ol li, ul ul li {font-size:0.95em; margin-bottom:0.5rem!important;}
 
-
-@media screen and (min-width:600px) and (max-width:850px), (orientation: landscape) {
-  .site-sidebar {max-width:120px!important;}
-  ul.contact-list li {white-space: normal;}
-  .site-main{margin-left: -40px!important;}
-  input#search-input {width: 110px;}
-}
