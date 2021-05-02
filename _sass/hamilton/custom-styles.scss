@@ -261,3 +261,26 @@ ol ol li, ol ul li, ul ol li, ul ul li {font-size:0.95em; margin-bottom:0.5rem!i
   input#search-input {width: 110px;}
   html{font-size: 0.89rem!important;}
 }
+
+
+.cross {
+  position: relative;
+  display: inline-block;
+}
+.cross::before, .cross::after {
+  content: '';
+  width: 100%;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+.cross::before {
+  border-bottom: 2px solid rgb(158, 14, 14);
+  -webkit-transform: skewY(-40deg);
+  transform: skewY(-40deg);
+}
+.cross::after {
+  border-bottom: 2px solid rgb(158, 14, 14);
+  -webkit-transform: skewY(40deg);
+  transform: skewY(40deg);
+}
