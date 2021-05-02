@@ -24,4 +24,14 @@ Je développe plusieurs projets numériques, à découvrir sur  [<i class="fab 
 - Des [schémas](https://github.com/eyssette/graphviz-examples/) avec Graphviz ;
 - Des [ressources](https://eyssette.github.io/ressources-generales-enseignement-philosophie/) pour les collègues.
 
+Vous pouvez également retrouver sur mon [ancien blog](https://eyssette.github.io/ancien-blog/) mes anciens cours et billets sur la pédagogie.
+
+# Questions techniques
+
+Ce blog ne collecte aucune information personnelle, il n'y a aucun traceur de votre présence sur ce site <span class="cross">🍪</span>.
+
+J'utilise [Jekyll](https://jekyllrb.com/), un logiciel libre de création de site statique en [Markdown](https://daringfireball.net/projects/markdown/).
+
+Le thème de ce blog est une adaptation du thème [Hamilton](https://github.com/zivhub/jekyll-theme-hamilton), créé par [Song-Zi Vong](https://github.com/zivhub). Vous pouvez vous aussi l'utiliser, dans sa version originale, ou dans la [version que je propose](https://github.com/eyssette/in-a-nutshell), en le récupérant sur Github.
+
  
