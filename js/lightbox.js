@@ -76,6 +76,7 @@ function setGallery(el) {
 	}
 }
 
+if (screen && screen.width > 480) {
 document.addEventListener("DOMContentLoaded", function() {
 
     //create lightbox div in the footer
@@ -139,3 +140,4 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
 });
+}
