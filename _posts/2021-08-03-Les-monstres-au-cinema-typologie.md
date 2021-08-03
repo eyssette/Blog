@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Les monstres au cinéma : un essai de typologie"
-categories: [Cinéma]
+categories: Cinéma
 ---
 
 Il y a une grande diversité de monstres au cinéma, voici une tentative de classification.
