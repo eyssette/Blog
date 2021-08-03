@@ -5,7 +5,7 @@ categories: Cinéma
 ---
 
 Il y a une grande diversité de monstres au cinéma, voici une tentative de classification.
-N'hésitez pas à me contacter si vous voyez d'autres types de monstres que j'aurais oublié.
+N'hésitez pas à me contacter si vous avez repéré d'autres types de monstres !
 
 # Le monstre, autre que l’homme
 
