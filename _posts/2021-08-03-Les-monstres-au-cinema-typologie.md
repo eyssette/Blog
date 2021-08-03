@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les monstres au cinéma : un essai de typologie"
+title: [Les monstres au cinéma : un essai de typologie]
 categories: Cinéma
 ---
 
