@@ -64,3 +64,8 @@ L'œuvre est-elle envisagée comme l'expression de l'auteur ou bien envisagée d
 L'attitude en question relève-t-elle seulement de la vie privée ?
 
 Notre attitude va-t-elle avoir des effets sur nous ou sur les autres et conduire à renforcer ou banaliser des jugements ou comportements problématiques ?
+
+
+# Les mêmes idées sous la forme d'une carte mentale
+
+https://eyssette.github.io/mindmap/Faut-il-s%C3%A9parer-l-oeuvre-et-l-auteur.html
