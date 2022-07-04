@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Quelle attitude faut-il avoir face à l'œuvre d'auteurs moralement condamnables ? Peut-on séparer l'œuvre et l'auteur ?"
-categories: [Éthique et philosophie morale, Esthétique]
-tags: [Art, Histoire de la philosophie]
+categories: [Éthique et philosophie morale]
 ---
 
 La question de savoir ce qu'il faut faire des œuvres d'auteurs moralement condamnables se pose dans le champ artistique, mais aussi du point de vue de l'histoire de la philosophie. Mon but ici n'est pas de régler la question et de justifier une réponse en particulier. L'objectif est de montrer que cette question renvoie à une multiplicité de situations possibles.
@@ -68,4 +67,4 @@ Notre attitude va-t-elle avoir des effets sur nous ou sur les autres et conduire
 
 # Les mêmes idées sous la forme d'une carte mentale
 
-https://eyssette.github.io/mindmap/Faut-il-s%C3%A9parer-l-oeuvre-et-l-auteur.html
+[https://eyssette.github.io/mindmap/Faut-il-s%C3%A9parer-l-oeuvre-et-l-auteur.html](https://eyssette.github.io/mindmap/Faut-il-s%C3%A9parer-l-oeuvre-et-l-auteur.html)
