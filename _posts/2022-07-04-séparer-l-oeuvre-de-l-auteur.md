@@ -12,17 +12,22 @@ Face à cette diversité, on pourrait justifier d'adopter la même attitude pour
 
 ## 1️⃣ À propos des faits reprochés à l'auteur 
 
--   Quelle est la gravité des faits en question ?
-  - Même s'il est difficile de faire des hiérarchies, on peut tout de même distinguer les auteurs qui ont commis des actes criminels et les auteurs qui ont tenu des propos ou soutenus des causes ou défendus des personnes problématiques
-- Dans quelle mesure ces faits sont-ils révélateurs de l'auteur lui-même ?
-  - Cette question se pose essentiellement dans le cas où les faits reprochés sont des propos et non des actes : ces propos sont-ils révélateurs des idées profondes de l'auteur ou de ce qu'il est ? Sont-ils seulement l'expression d'un contexte particulier ?
-- ⚠️ Généralement, la question de la séparation de l'œuvre et de l'auteur se pose pour des faits graves et qui ne sont pas de simples erreurs accidentelles. L'objection selon laquelle “personne n'est parfait” n'a pas de sens ici. La démarche de questionnement des œuvres ne peut pas être réduite à une prétendue recherche de la sainteté morale.
+## Quelle est la gravité des faits en question ?
+Même s'il est difficile de faire des hiérarchies, on peut tout de même distinguer les auteurs qui ont commis des actes criminels et les auteurs qui ont tenu des propos ou soutenus des causes ou défendus des personnes problématiques
+
+## Dans quelle mesure ces faits sont-ils révélateurs de l'auteur lui-même ?
+
+Cette question se pose essentiellement dans le cas où les faits reprochés sont des propos et non des actes : ces propos sont-ils révélateurs des idées profondes de l'auteur ou de ce qu'il est ? Sont-ils seulement l'expression d'un contexte particulier ?
+
+<blockquote>⚠️ Généralement, la question de la séparation de l'œuvre et de l'auteur se pose pour des faits graves et qui ne sont pas de simples erreurs accidentelles. L'objection selon laquelle “personne n'est parfait” n'a pas de sens ici. La démarche de questionnement des œuvres ne peut pas être réduite à une prétendue recherche de la sainteté morale.</blockquote>
 
 ## 2️⃣ À propos du rapport entre l'auteur et son œuvre 
 
-- L'auteur est-il directement présent dans l'œuvre ?
-  - Dans certains cas l'auteur est directement présent dans l'œuvre (musicien en concert, vidéaste qui se filme), dans d'autres cas, on ne voit pas directement l'auteur dans l'œuvre elle-même.
-  - On pourrait cependant estimer qu'il y a un degré plus ou moins important de présence directe de l'auteur dans l'œuvre selon qu'il s'agit par exemple d'une performance artistique inséparable de l'artiste (voix d'un musicien, rôle dans un spectacle), d'une production artistique extérieure à l'auteur (tableau, film, roman), ou d'un raisonnement d'un philosophe.
+## L'auteur est-il directement présent dans l'œuvre ?
+
+Dans certains cas l'auteur est directement présent dans l'œuvre (musicien en concert, vidéaste qui se filme), dans d'autres cas, on ne voit pas directement l'auteur dans l'œuvre elle-même.
+
+On pourrait cependant estimer qu'il y a un degré plus ou moins important de présence directe de l'auteur dans l'œuvre selon qu'il s'agit par exemple d'une performance artistique inséparable de l'artiste (voix d'un musicien, rôle dans un spectacle), d'une production artistique extérieure à l'auteur (tableau, film, roman), ou d'un raisonnement d'un philosophe.
 - Quel est le degré de manifestation indirecte dans l'œuvre de ce qu'il y a de problématique chez l'auteur ?
   - L'œuvre n'a-t-elle rien à voir dans son contenu ou sa forme avec les actes ou propos problématiques de l'auteur ou bien y a-t-il dans l'œuvre elle-même une connexion avec ces actes ou propos ?
   - Cette connexion est-elle profonde ou bien réduite à des caractéristiques non-centrales, peu importantes de l'œuvre ? 
