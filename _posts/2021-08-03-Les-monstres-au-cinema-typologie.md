@@ -52,3 +52,8 @@ N'hésitez pas à me contacter si vous avez repéré d'autres types de monstres 
   - _Funny Games, Tueurs nés, Salo, Hostel, The Human Centipede, Cannibal Holocaust, La dernière maison sur la gauche, Old Boy, La colline a des yeux, Délivrance, Massacre à la tronçonneuse_, Hannibal Lecter dans _Le Silence des Agneaux_ …
 - En raison de la “justification rationnelle” qu’il cherche à donner de ses actes criminels :
   - _Saw, Les yeux sans visage, Martyrs, La Corde, Quintet_ …
+
+
+# Carte mentale
+
+Vous pouvez retrouver cette typologie sous la forme d'une [carte mentale](https://eyssette.github.io/mindmap/monstres-au-cinema-typologie)
